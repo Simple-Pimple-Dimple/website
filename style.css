@@ -1,0 +1,47 @@
+html {
+  background-color: #00FF7F;
+}
+
+body {
+  font-family: "Lexend Peta", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  color: white;
+}
+
+h2 {
+  font-size: 39px;
+  text-align: center;
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+#head {
+  border-bottom: 2px solid white;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
