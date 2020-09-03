@@ -1,24 +1,28 @@
+/* CSS files add styling rules to your content */
+
 html {
   background-color: #00FF7F;
 }
 
 body {
-  font-family: "Lexend Peta", sans-serif;
   margin: 0;
   padding: 0;
 }
 
 h3 {
+  font-family: "Lexend Peta", sans-serif;
   color: white;
 }
 
 h2 {
+  font-family: "Lexend Peta", sans-serif;
   font-size: 39px;
   text-align: center;
   color: white;
 }
 
 p {
+  font-family: "Lexend Peta", sans-serif;
   color: white;
 }
 
@@ -42,6 +46,8 @@ a:hover {
 }
 
 h1 {
+  font-size: 64px;
+  font-family: 'Roboto Mono', monospace;
   color: white;
   text-align: center;
 }
