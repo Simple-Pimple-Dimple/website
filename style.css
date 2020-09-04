@@ -17,7 +17,6 @@ h3 {
 h2 {
   font-family: "Lexend Peta", sans-serif;
   font-size: 39px;
-  text-align: center;
   color: white;
 }
 
@@ -49,5 +48,8 @@ h1 {
   font-size: 64px;
   font-family: 'Roboto Mono', monospace;
   color: white;
-  text-align: center;
+}
+
+#head {
+  border: 20px solid white;
 }
