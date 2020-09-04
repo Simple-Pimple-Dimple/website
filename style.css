@@ -1,7 +1,7 @@
 /* CSS files add styling rules to your content */
 
 html {
-  background-color: #00FF7F;
+  background-color: #9932CC;
 }
 
 body {
@@ -52,4 +52,13 @@ h1 {
 
 #head {
   border: 20px solid white;
+  background-color: #00FF7F;
+}
+
+#intro {
+  background-color: #9932CC;
+}
+
+#more-info {
+  background-color: #9932CC;
 }
